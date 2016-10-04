@@ -1,10 +1,10 @@
 {
-    "name": "akrabat/rka-slim-controller",
+    "name": "tox2ik/rka-slim-controller",
     "description": "Dynamically instantiated controller classes for Slim Framework",
     "keywords": [
         "slim", "controller"
     ],
-    "homepage": "http://github.com/akrabat/rka-slim-controller",
+    "homepage": "https://github.com/tox2ik/rka-slim-controller",
     "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
@@ -12,10 +12,15 @@
             "name": "Rob Allen",
             "email": "rob@akrabat.com",
             "homepage": "http://akrabat.com"
+        },
+        {
+            "name": "Jaroslav Rakhmatoullin",
+            "email": "jaroslav@initio.no",
+            "homepage": "http://initio.no"
         }
     ],
     "require": {
-        "php": ">=5.4",
+        "php": ">=5.3",
         "slim/slim": "~2.4"
     },
     "autoload": {
