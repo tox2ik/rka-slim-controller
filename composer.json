@@ -1,5 +1,5 @@
 {
-    "name": "tox2ik/rka-slim-controller",
+    "name": "tox2ik/rka-slim-controller-json",
     "description": "Dynamically instantiated controller classes for Slim Framework",
     "keywords": [
         "slim", "controller", "json"
