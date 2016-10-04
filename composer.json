@@ -2,7 +2,7 @@
     "name": "tox2ik/rka-slim-controller",
     "description": "Dynamically instantiated controller classes for Slim Framework",
     "keywords": [
-        "slim", "controller"
+        "slim", "controller", "json"
     ],
     "homepage": "https://github.com/tox2ik/rka-slim-controller",
     "type": "library",
